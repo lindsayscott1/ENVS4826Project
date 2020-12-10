@@ -14,3 +14,5 @@ The **ENVS4826ProjectScript** file is the R script used to complete our analysis
 **FAOCanadaData.csv** is another file we created by editing the original dataset for the use of running statistical analysis, and is in the script file as the object "canadadata".
 
 **FAOUSData.csv** is another file we created by editing the original dataset for the use of running statistical analysis, and is in the script file as the object "usdata".
+
+**ENVS4826ProjectAppendix2** file is a script file created for Appendix 2 of our paper, which is the unused and unhelpful code we created before we figured out what we needed and ended up using in the final code.
